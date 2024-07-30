@@ -72,10 +72,6 @@ We welcome contributions to the Yadidim Organization Management System! If you'd
 4. Push to the branch: `git push origin feature-branch-name`
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries or questions, please contact us at <span style="color: #4CAF50;">support@yadidim.org</span>.
